@@ -1,0 +1,5 @@
+c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\bin\Debug\OnlineBasket.exe.config
+c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\bin\Debug\OnlineBasket.exe
+c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\bin\Debug\OnlineBasket.pdb
+c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\obj\Debug\OnlineBasket.exe
+c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\obj\Debug\OnlineBasket.pdb
