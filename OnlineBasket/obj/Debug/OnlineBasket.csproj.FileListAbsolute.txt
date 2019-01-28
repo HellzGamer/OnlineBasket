@@ -3,3 +3,4 @@ c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\
 c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\bin\Debug\OnlineBasket.pdb
 c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\obj\Debug\OnlineBasket.exe
 c:\users\devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\obj\Debug\OnlineBasket.pdb
+C:\Users\Devesh\documents\visual studio 2015\Projects\OnlineBasket\OnlineBasket\obj\Debug\OnlineBasket.csprojResolveAssemblyReference.cache

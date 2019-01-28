@@ -15,39 +15,39 @@ namespace OnlineBasket.Data
         public double getTotalCost()
         {
             double totalCost = 0;
-            foreach (Shirts s in Shirts)
+            for (int i = 0; i < Shirts.Count; i++)
             {
-                if (s.GetType() == typeof(Tshirt))
+                if (Shirts[i].GetType() == typeof(Tshirt))
                 {
-                    name = s.Name;
-                    size = s.Size;
+                    name = Shirts[i].Name;
+                    size = Shirts[i].Size;
                     Tshirt tshirt = new Tshirt(name, size);
                     totalCost += tshirt.getCost();
                 }
                 else
-                    if (s.GetType() == typeof(Golfer))
+                    if (Shirts[i].GetType() == typeof(Golfer))
                 {
-                    name = s.Name;
-                    size = s.Size;
+                    name = Shirts[i].Name;
+                    size = Shirts[i].Size;
                     Golfer golfer = new Golfer(name, size);
                     totalCost += golfer.getCost();
                 }
             }
 
-            foreach (Pants p in Pants)
+            for (int i = 0; i < Pants.Count; i++)
             {
-                if (p.GetType() == typeof(Jeans))
+                if (Pants[i].GetType() == typeof(Jeans))
                 {
-                    name = p.Name;
-                    size = p.Size;
+                    name = Pants[i].Name;
+                    size = Pants[i].Size;
                     Jeans jeans = new Jeans(name, size);
                     totalCost += jeans.getCost();
                 }
                 else
-                    if (p.GetType() == typeof(FormalPants))
+                    if (Pants[i].GetType() == typeof(FormalPants))
                 {
-                    name = p.Name;
-                    size = p.Size;
+                    name = Pants[i].Name;
+                    size = Pants[i].Size;
                     FormalPants formalPants = new FormalPants(name, size);
                     totalCost += formalPants.getCost();
                 }
